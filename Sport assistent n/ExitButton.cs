@@ -19,8 +19,6 @@ namespace Sport_assistent_n
             InitializeComponent();
         }
 
-        //Все методы с именами, заканчивающимися на Click, отвечают
-        //за действия, выполняемые при нажатии соответствующей кнопки.
         private void button1_Click(object sender, EventArgs e)
         {
             VisualEffects.Clear();
