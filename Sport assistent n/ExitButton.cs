@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Sport_assistent_n
 {
-    //Кнопка, при нажатии на которую происходит переход в раздел входа систему.
+    
     public partial class ExitButton : UserControl
     {
         //Конструктор.
